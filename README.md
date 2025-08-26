@@ -24,7 +24,7 @@ Lei Chen, Xuanle Zhao, Zhixiong Zeng†, Jing Huang, Liming Zheng, Yufeng Zhong,
 
 ## 📢 News and Updates
 * ```2025.08.26``` We upload our model weights [MSRL](https://huggingface.co/DocTron/MSRL) and [MSRL-SFT](https://huggingface.co/DocTron/MSRL-SFT) to HuggingFace.
-* ```2025.08.19``` 🔥🔥🔥 We release the technical report of **MSRL** at arXiv [link](https://arxiv.org/abs/2507.15509).
+* ```2025.08.19``` 🔥🔥🔥 We release the technical report of **MSRL** at arXiv [link](https://arxiv.org/abs/2508.13587).
 
 
 ## 🤗 Models
